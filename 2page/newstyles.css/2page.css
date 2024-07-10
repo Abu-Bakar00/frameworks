@@ -1,0 +1,39 @@
+html, body{
+  background-color: #012030;
+  color: #45C4B0;
+}
+#callout-primary{
+  background-color: #012030;
+  border: 0px solid white;
+  border-left: 0px;
+  border-right: 0px;
+}
+.top-bar{
+  background-color:white;
+}
+ul.menu>li{
+  background-color: white;
+}
+a:active{
+  color: red;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+img{
+	width: 1001px;
+	height: 500.9px;
+}
+h1,h2{
+  font-size: 2rem;
+}
+footer{
+  background-color: white;
+  width: auto;
+  height: 40px;
+  margin-top: 5px;
+}
+.menu-text{
+  color: #012030;
+}
